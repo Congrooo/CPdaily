@@ -1,6 +1,6 @@
 author: 若离QQ：2909998156
 # 推送方式：0：邮件推送；1：qmsg推送；2：pushplus推送
-sendType: 0
+sendType: 1
 # 当且仅当sendType为0时有用，邮箱API的地址
 emailApiUrl: 'https://api.ruoli.cc/mail/sendMail'
 # 当且仅当sendType为1时有用，qmsg的Key（如需使用请自行更改）
@@ -27,7 +27,7 @@ users:
       #address 地址，定位信息
       address: '福建省福州市闽侯县学府南路12正'
       #sendKey 当sendType为0时代表邮箱，当sendType为1时代表接收消息的QQ号码，当sendType为2时代表接收消息的pushplus token
-      sendKey: 'c0da7427cc93adf33175509b9fcd6ef8'
+      sendKey: '976856169'
       #school 学校全称
       schoolName: 福州大学
       # 附上经纬度查询地址（请自行选择自己的学校地址，address，lon，lat都要填查询到的）：http://api.map.baidu.com/lbsapi/getpoint/index.html
