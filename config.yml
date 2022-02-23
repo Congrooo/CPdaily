@@ -4,7 +4,7 @@ sendType: 0
 # 当且仅当sendType为0时有用，邮箱API的地址
 emailApiUrl: 'https://api.ruoli.cc/mail/sendMail'
 # 当且仅当sendType为1时有用，qmsg的Key（如需使用请自行更改）
-myQmsgKey: ''
+myQmsgKey: 'c0da7427cc93adf33175509b9fcd6ef8'
 # submitForm提交数据进行加密的api接口
 encryptApi: 'https://api.ruoli.cc/wise/v3/encrypt'
 
